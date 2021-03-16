@@ -4,3 +4,8 @@ Short coursework written in c. Designed to be run with the Microsoft C Compiler.
 for, and (optionally) a character string to replace the search for. Without selecting a replacement string, it will search for all instances
 of the word string and output it's index (of the starting character) every time the string is encountered. If a replacement string
 is selected, it will also change the original character string to the string input by the user.
+
+Example usage: Searching for the word "program" in the text file "single_words_test.txt", and replacing each instance of the string with "PROGRAM" : 
+
+
+![answer](https://github.com/The-Liam-Blair/UniversityWork/blob/master/Screenshots/Programming%20Fundamentals/result.png)
