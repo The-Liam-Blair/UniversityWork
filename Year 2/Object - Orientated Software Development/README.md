@@ -1,7 +1,8 @@
 # Object Orientated Software Development
 
 Prototype of a track and trace system. Allows user to enter details of multiple users, record contacts and visits.
-User can output a user's contacts by 2 date constraints, and show the users that have visited a location by 2 date constraints.  
+User can output a user's contacts by 2 date constraints, and show the users that have visited a location by 2 date constraints.
+Data is saved locally to a .CSV file. Project is written in C#.
 
 <br>
 
